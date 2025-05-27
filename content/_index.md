@@ -16,12 +16,13 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: sde4.png
+          filename: sde4-night.png
           position: center
-          size: auto
+          size: cover
         text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
+
       
 
 
