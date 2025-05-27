@@ -18,11 +18,10 @@ sections:
         image: 
           filename: sde4.png
           position: center
-          size: auto 300px
+          size: cover
         text_color_light: true
       spacing:
         padding: ['8px', '0', '8px', '0']
-      css_class: fullscreen
       
 
 
