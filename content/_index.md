@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Centre for Integrated Building 
+        Energy and Sustainability in the Tropics
       image:
         filename: welcome.jpg
-      text: |
+      text: A global centre of excellence at the National University of Singapore, advancing research in energy efficiency and sustainability for the built environment in tropical climates.
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        
   
   - block: collection
     content:
