@@ -17,11 +17,8 @@ sections:
       background:
         image: 
           filename: sde4.png
-          filters:
-            brightness: 1
-          parallax: false
           position: center
-          size: cover
+          size: auto 300px
         text_color_light: true
       spacing:
         padding: ['8px', '0', '8px', '0']
