@@ -18,10 +18,10 @@ sections:
         image: 
           filename: sde4.png
           position: center
-          size: cover
+          size: auto 300px
         text_color_light: true
       spacing:
-        padding: ['8px', '0', '8px', '0']
+        padding: ['20px', '0', '20px', '0']
       
 
 
