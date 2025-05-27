@@ -13,9 +13,9 @@ sections:
       text: |
         A global centre of excellence at the National University of Singapore, advancing research in energy efficiency and sustainability for the built environment in tropical climates.
       image:
-        filename: welcome.jpg
+        filename: sde4.png
         focal_point: Center
-        overlay_color: "#000000"
+        overlay_color: "#003d7c"
         overlay_filter: 0.3
         caption: ""
     design:
