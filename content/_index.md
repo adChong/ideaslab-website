@@ -18,6 +18,7 @@ sections:
           filename: sde4-night.png
           position: center
           size: cover
+        width: wide
         text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
