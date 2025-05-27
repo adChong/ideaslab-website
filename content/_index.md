@@ -11,8 +11,8 @@ sections:
         Centre for Integrated Building  
         Energy and Sustainability in the Tropics
       text: |
-        A global centre of excellence at the National University of Singapore,  
-        advancing research in energy efficiency and sustainability  
+        A global centre of excellence at the National University of Singapore, 
+        advancing research in energy efficiency and sustainability 
         for the built environment in tropical climates.
     design:
       columns: '1'
@@ -21,7 +21,7 @@ sections:
           filename: sde4-night.png
           position: center
           size: cover
-        width: full
+        width: wide
         text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
