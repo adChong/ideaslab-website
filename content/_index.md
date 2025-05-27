@@ -18,7 +18,7 @@ sections:
         image: 
           filename: sde4.png
           position: center
-          size: auto 300px
+          size: auto
         text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
