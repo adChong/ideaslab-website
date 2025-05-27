@@ -10,7 +10,10 @@ sections:
       title: |
         Centre for Integrated Building  
         Energy and Sustainability in the Tropics
-      text: A global centre of excellence at the National University of Singapore, advancing research in energy efficiency and sustainability for the built environment in tropical climates.
+      text: |
+        A global centre of excellence at the National University of Singapore,  
+        advancing research in energy efficiency and sustainability  
+        for the built environment in tropical climates.
     design:
       columns: '1'
       background:
