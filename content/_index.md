@@ -14,9 +14,12 @@ sections:
         filename: welcome.jpg
       text: A global centre of excellence at the National University of Singapore, advancing research in energy efficiency and sustainability for the built environment in tropical climates.
         <br>
+    design:
+      overlay: true
+      alignment: center
+      text_color_light: true
+      width: full
         
-        
-  
   - block: collection
     content:
       title: Latest News
