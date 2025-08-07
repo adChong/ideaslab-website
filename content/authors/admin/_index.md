@@ -3,14 +3,14 @@
 title: Adrian Chong
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Adrian
+last_name: Chong
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Building Science
 
 # Organizations/Affiliations
 organizations:
