@@ -9,7 +9,7 @@ sections:
     content:
       email: adrian.chong@nus.edu.sg
       address:
-        street: SDE4, 8 Architecture Dr
+        street: SDE4, College of Design and Engineering, 8 Architecture Dr
         city: Singapore
         region: Singapore
         postcode: '117564'
@@ -22,19 +22,13 @@ sections:
       contact_links:
         - icon: linkedin
           icon_pack: fab
+          name: LinkedIn
           link: https://www.linkedin.com/in/adrianchong
     
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+
     design:
       columns: '1'
 
