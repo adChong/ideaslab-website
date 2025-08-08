@@ -8,24 +8,16 @@ sections:
   - block: hero
     content:
       title: |
-        Centre for Integrated Building  
-        Energy and Sustainability in the Tropics
+        IDEASLab @ National University of Singapore
+      image: 
+          filename: sde4-night.png
       text: |
-        A global centre of excellence at the National University of Singapore, 
-        advancing research in energy efficiency and sustainability 
-        for the built environment in tropical climates.
+        Advancing Research at the Intersection of Sustainable Cooling, Thermal Comfort, and Occupant-Centric Controls
     design:
       columns: '1'
       background:
-        image: 
-          filename: sde4-night.png
-          position: center
-          size: cover
-        width: wide
+        color: 'black'
         text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
       
 
 
