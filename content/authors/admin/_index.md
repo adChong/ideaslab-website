@@ -2,6 +2,8 @@
 # Display name
 title: Adrian Chong
 
+weight: 10
+
 # Full Name (for SEO)
 first_name: Adrian
 last_name: Chong

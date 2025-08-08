@@ -8,16 +8,21 @@ sections:
   - block: hero
     content:
       title: |
-        IDEASLab @ National University of Singapore
-      image: 
-          filename: sde4-night.png
+        IDEASLab @ NUS
       text: |
         Advancing Research at the Intersection of Sustainable Cooling, Thermal Comfort, and Occupant-Centric Controls
     design:
       columns: '1'
       background:
+        image:
+          filename: sde4-night.png
+          position: center
+          size: cover
         color: 'black'
+        spacing:
+          padding: ['20px', '0', '20px', '0']
         text_color_light: true
+      css_class: fullscreen
       
 
 
