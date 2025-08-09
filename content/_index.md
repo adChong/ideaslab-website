@@ -10,7 +10,10 @@ sections:
       title: |
         IDEASLab @ NUS
       text: |
-        Advancing Research at the Intersection of Sustainable Cooling, Thermal Comfort, and Occupant-Centric Controls
+        # Transforming How Buildings in the Tropics are Cooled, Controlled, and Experienced
+        ### From Research to Real-World Solutions for Sustainable Buildings in the Tropics
+        
+        {{% cta cta_link="./about/" cta_text="Learn more →" %}}
     design:
       columns: '1'
       background:
