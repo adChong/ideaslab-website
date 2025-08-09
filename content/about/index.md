@@ -30,7 +30,7 @@ We are guided by a set of principles that define how we work and what we stand f
 
 **Our Lab Culture**
 
-We work in a flat, non-hierarchical environment where ideas are valued regardless of role or seniority. Open communication is central to how we operate, and we maintain an honest, open culture where feedback is part of learning and growth, never personal. We foster mutual respect and trust, supporting one another’s growth and contributions, and we believe in fair recognition, ensuring contributions are acknowledged appropriately and credit is given where it is due. Driven by curiosity, we encourage asking questions, exploring new ideas, and taking initiative. Every member is empowered to propose, lead, and improve projects, contributing to a collaborative and dynamic research environment.
+We work in a flat, non-hierarchical environment where ideas are valued regardless of role or seniority. Open communication is central to how we operate, and we maintain an honest, open culture where feedback is part of learning and growth, never personal. We foster mutual respect and trust, supporting one another’s growth and contributions, and we believe in fair recognition, ensuring contributions are acknowledged appropriately and credit is given where it is due. 
 
 
 
