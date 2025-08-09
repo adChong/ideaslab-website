@@ -10,8 +10,9 @@ sections:
       title: |
         IDEASLab @ NUS
       text: |
-        Transforming How Buildings in the Tropics are Cooled, Controlled, and Experienced
-        From Research to Real-World Solutions for Sustainable Buildings in the Tropics
+        ## Transforming How Buildings in the Tropics are Cooled, Controlled, and Experienced
+        ### From Research to Real-World Solutions for Sustainable Buildings in the Tropics
+        
         [Learn more →](./about/)
     design:
       columns: '1'
