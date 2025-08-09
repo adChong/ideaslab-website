@@ -18,13 +18,15 @@ sections:
       align: left
       background:
         image:
-          filename: sde4.png
+          filename: sde4-night.png
           position: center
           size: cover
         color: 'black'
         spacing:
           padding: ['20px', '0', '200px', '0'] 
-        
+        text_color_light: true
+      css_class: fullscreen
+
 
 
 
