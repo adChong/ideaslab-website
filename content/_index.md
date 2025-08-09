@@ -26,7 +26,7 @@ sections:
         spacing:
           padding: ['20px', '0', '20px', '0']
         text_color_light: true
-      css_class: fullscreen
+
 
 
 
