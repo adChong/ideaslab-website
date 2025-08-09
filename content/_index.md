@@ -23,7 +23,7 @@ sections:
           size: cover
         color: 'black'
         spacing:
-          padding: ['20px', '0', '240px', '0'] 
+          padding: ['20px', '0', '2000px', '0'] 
         text_color_light: true
 
 
