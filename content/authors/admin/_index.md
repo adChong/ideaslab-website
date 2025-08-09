@@ -30,12 +30,6 @@ education:
     - course: PhD in Building Performance and Diagnostics
       institution: Carnegie Mellon University
       year: 2017
-    - course: MSc in Building Science
-      institution: National University of Singapore
-      year: 2012
-    - course: BSc in Projects and Facilities Management
-      institution: National University of Singapore
-      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
