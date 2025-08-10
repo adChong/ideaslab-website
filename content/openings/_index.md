@@ -3,10 +3,9 @@ title: "Openings"
 date: 2025-08-09
 type: page
 summary: "Current opportunities to join IDEASLab."
-featured:
+banner:
   image: "nus_signage-6.jpg"
-  alt_text: "NUS campus signage"
-  placement: 1
+  caption: "NUS campus signage"
 ---
 
 We welcome talented, motivated individuals to join our interdisciplinary team at the National University of Singapore. Learn more about our [lab's mission and values](/about/).
