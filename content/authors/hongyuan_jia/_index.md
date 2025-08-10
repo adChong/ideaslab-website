@@ -1,14 +1,16 @@
 ---
-authors:
-- hongyuan-jia
-email: ""
 name: Hongyuan Jia
-weight: 1
+title: Hongyuan Jia
+
+# Username (this should match the folder name)
+authors:
+  - hongyuan_jia
+  
 role: Assistant Professor (Chongqing University of Science and Technology)
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hongyuanjia@outlook.com'
+  link: 'mailto:hongyuanjia@cqust.edu.cn'
 - icon: blogger
   icon_pack: fab
   link: https://hongyuanjia.me/
