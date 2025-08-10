@@ -5,7 +5,7 @@ type: page
 summary: "Current opportunities to join IDEASLab."
 banner:
   image: "nus_signage-6.jpg"
-  caption: "NUS campus signage"
+  caption: ""
 ---
 
 We welcome talented, motivated individuals to join our interdisciplinary team at the National University of Singapore. Learn more about our [lab's mission and values](/about/).
