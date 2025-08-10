@@ -1,10 +1,11 @@
 ---
-authors:
-- xilei-dai
-bio: My research interests include IoT for Building sensing and prediction.
-email: ""
 name: Xilei Dai
-weight: 1
+title: Xilei Dai
+
+# Username (this should match the folder name)
+authors:
+  - xilei_dai
+  
 role: Associate Professor (Chongqing University)
 social:
 - icon: envelope

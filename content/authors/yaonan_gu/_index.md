@@ -1,16 +1,17 @@
 ---
+name: Yaonan Gu
+title: Yaonan Gu
+
+# Username (this should match the folder name)
 authors:
-- yaonan-gu
-
-email: ""
-
-name: Yaonan (Claire) Gu
+  - yaonan_gu
+  
 
 role: Schmidt AI in Science Postdoctoral Fellow (National University of Singapore)
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yaonangu@u.nus.edu'
+  link: 'mailto:yaonangu@nus.edu'
 - icon: linkedin
   icon_pack: fab
   link: http://linkedin.com/in/yaonan-gu-2a6a37a8

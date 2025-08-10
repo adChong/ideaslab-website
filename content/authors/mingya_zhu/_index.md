@@ -1,12 +1,11 @@
 ---
-authors:
-- mingya-zhu
-email: ""
 name: Mingya Zhu
-weight: 1
-organizations:
-  - name: Berkeley Education Alliance for Research in Singapore (BEARS)
-    url: "https://bears.berkeley.edu"
+title: Mingya Zhu
+
+# Username (this should match the folder name)
+authors:
+  - mingya_zhu
+  
 role: Lead Research Scientist (Siemens Ltd., China)
 social:
 - icon: envelope
@@ -21,9 +20,7 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Mingya-Zhu
-- icon: github
-  icon_pack: fab
-  link: https://github.com/MiyaZhu13
+
 user_groups:
   - Alumni
 ---

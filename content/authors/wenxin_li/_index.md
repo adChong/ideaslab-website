@@ -1,9 +1,11 @@
 ---
-authors:
-  - wenxin-li
-email: ""
 name: Wenxin Li
-weight: 3
+title: Wenxin Li
+
+# Username (this should match the folder name)
+authors:
+  - wenxin_li
+  
 organizations:
   - name: Southeast University
 role: Associate Professor (Southeast University)

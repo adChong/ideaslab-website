@@ -1,11 +1,13 @@
 ---
-authors:
-- long-zheng
+name: Zheng Long
+title: Zheng Long
 
+# Username (this should match the folder name)
+authors:
+  - long_zheng
+  
 role: Research Fellow (National University of Singapore)
 
-email: ""
-name: Long Zheng
 
 social:
 - icon: envelope

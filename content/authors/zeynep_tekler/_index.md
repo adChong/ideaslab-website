@@ -1,11 +1,13 @@
 ---
+name: Zeynep Tekler
+title: Zeynep Tekler
+
+# Username (this should match the folder name)
 authors:
-- zeynep-tekler
+  - zeynep_tekler
 
 role: Postdoctoral Researcher (University of Oxford)
 
-email: "zdtekler@nus.edu.sg"
-name: Zeynep Duygu Tekler
 
 social:
 # for more icons look at the following links
@@ -13,7 +15,7 @@ social:
 # https://fortawesome.github.io/Font-Awesome/icons/
 - icon: envelope
   icon_pack: fas
-  link: zdtekler@nus.edu.sg
+  link: duygutekler.zeynep@gmail.com
 - icon: home
   icon_pack: fas
   link: https://zeynepduygutekler.github.io/

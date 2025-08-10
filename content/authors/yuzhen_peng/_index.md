@@ -1,11 +1,14 @@
 ---
-authors:
-- yuzhen-peng
-bio: My research interests included below.
-role: Senior Research Scientist (Bosch Research)
-email: "yuzhen.p@nus.edu.sg"
 name: Yuzhen Peng
+title: Yuzhen Peng
 
+# Username (this should match the folder name)
+authors:
+  - yuzhen_peng
+
+
+role: Senior Research Scientist (Bosch Research)
+email: ""
 
 social:
 # for more icons look at the following links

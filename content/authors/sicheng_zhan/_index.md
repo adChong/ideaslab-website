@@ -1,10 +1,11 @@
 ---
-authors:
-- sicheng-zhan
-
-email: ""
-
 name: Sicheng Zhan
+title: Sicheng Zhan
+
+# Username (this should match the folder name)
+authors:
+  - sicheng_zhan
+  
 
 role: Research Fellow (Massachusetts Institute of Technology)
 social:
