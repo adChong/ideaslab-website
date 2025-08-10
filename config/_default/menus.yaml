@@ -13,6 +13,9 @@ main:
   - name: People
     url: people
     weight: 30
+  - name: Openings
+    url: openings
+    weight: 40
 #  - name: Events
 #    url: event
 #    weight: 40
@@ -21,4 +24,4 @@ main:
 #    weight: 50
   - name: Contact
     url: contact
-    weight: 40
+    weight: 50
