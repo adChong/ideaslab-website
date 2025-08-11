@@ -27,6 +27,8 @@ We are guided by a set of principles that define how we work and what we stand f
 - **Rigor and Relevance** – We combine scientific depth with engineering practicality to produce solutions that are both credible and scalable.  
 - **Adaptability** – We design with flexibility in mind, recognizing that effective solutions must evolve with changing climates, technologies, and user needs.  
 
+![](beehub.jpg){width=50%}
+
 
 **Our Lab Culture**
 
