@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Led by IDEASLab’s PI, [Dr Adrian Chong](/authors/adrian-chong), the project *Thermoelectric Cooling with Novel Material Composites for Localised Cooling in Naturally Ventilated and Mixed-Mode Ventilated Spaces* has been awarded a total grant of **S$1,647,700**.
+Led by IDEASLab’s PI, {{% mention "adrian-chong" %}}, the project *Thermoelectric Cooling with Novel Material Composites for Localised Cooling in Naturally Ventilated and Mixed-Mode Ventilated Spaces* has been awarded a total grant of **S$1,647,700**.
 
 <!--more-->
 
@@ -14,6 +14,8 @@ Climate change is driving up energy use, especially for cooling buildings. While
 The system leverages thermoelectric cooling technology to deliver targeted, localised comfort—significantly cutting the need for full-space air-conditioning. It integrates advanced materials such as phase change material (PCM) composites and high-swelling hydrogels with forced air convection to manage heat and moisture efficiently. Designed to be portable, it can be adapted for a wide range of building types.
 
 Aligned with Singapore’s Green Building Masterplan, this project supports the nation’s goal of achieving net-zero emissions by 2050 by cooling only when and where necessary. Beyond Singapore, it holds strong potential for tropical cities across Southeast Asia facing similar climate and urbanisation challenges.
+
+
 
 
 
