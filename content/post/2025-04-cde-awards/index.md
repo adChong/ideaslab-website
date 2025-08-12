@@ -1,6 +1,6 @@
 ---
 title: CDE Young Researcher and Outstanding Educator Awards 2025
-date: 2025-08-12
+date: 2025-04-12
 image:
   focal_point: 'top'
 ---
