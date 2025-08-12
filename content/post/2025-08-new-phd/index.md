@@ -1,5 +1,5 @@
 ---
-title: Cherry and Kefan Join the IDEASLab PhD Team!
+title: Cherry and Kefan Join the IDEASLab!
 date: 2025-08-11
 image:
   filename: featured.jpg
