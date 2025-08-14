@@ -1,21 +1,16 @@
 ---
-title: Localised Cooling Project Secures S$1.648M Grant
-date: 2025-08-10
+title: Award of GBIC R&D Grant for Occupant-Centric Controls 
+date: 2025-08-13
 image:
   focal_point: 'top'
 ---
 
-Led by IDEASLab’s PI, {{% mention "adrian_chong" %}}, the project *Thermoelectric Cooling with Novel Material Composites for Localised Cooling in Naturally Ventilated and Mixed-Mode Ventilated Spaces* has been awarded a total grant of **S$1,647,700**.
+A new project *Cost-Effective Wireless Occupant-Centric Controls for Energy-Efficient Whole Building Retrofit*, led by **Resync Technologies** with co-PIs from **NUS** and **A*STAR**, has been awarded S$1.26 M in funding under the **BCA Green Buildings Innovation Cluster (GBIC) R&D Programme**.
 
 <!--more-->
 
-Climate change is driving up energy use, especially for cooling buildings. While effective, traditional air-conditioning systems consume large amounts of energy and use refrigerants that contribute to global warming. In collaboration with **Surbana Jurong Pte Ltd** and **Kajima Corporation**, this project will develop a portable thermoelectric cooling system for naturally ventilated (NV) and mixed-mode ventilated (MMV) spaces, reducing reliance on air-conditioning and reserving its use as a last resort.
+The project will develop and demonstrate a **cost-effective, wireless occupant-centric control system** that dynamically adapts whole-building air-conditioning, ventilation, and lighting systems based on predicted occupancy patterns and counts. By combining **multimodal sensing**, **domain adaptation techniques**, and **robust predictive controls**, the team aims to create scalable solutions that enhance energy efficiency and occupant comfort in existing buildings. The full-scale demonstration will take place at the **NUS Ventus building**.
 
-The system leverages thermoelectric cooling technology to deliver targeted, localised comfort—significantly cutting the need for full-space air-conditioning. It integrates advanced materials such as phase change material (PCM) composites and high-swelling hydrogels with forced air convection to manage heat and moisture efficiently. Designed to be portable, it can be adapted for a wide range of building types.
+Alongside lead PI **Jayantika Soni** (Resync Technologies), the project team includes co-PIs **{{% mention "adrian_chong" %}}** (IDEASLab, NUS), **Bertrand Lasternas** (University Campus Infrastructure, NUS), and **Wu Keyu** (Institute for Infocomm Research, A\*STAR), as well as collaborators **Daniel Wong** (NUS) and **Chen Zhenghua** (Institute for Infocomm Research, A\*STAR).
 
-Aligned with Singapore’s Green Building Masterplan, this project supports the nation’s goal of achieving net-zero emissions by 2050 by cooling only when and where necessary. Beyond Singapore, it holds strong potential for tropical cities across Southeast Asia facing similar climate and urbanisation challenges.
-
-
-
-
-
+Working closely across research and industry, the team aims to deliver occupant-centric control strategies ready for real-world application.
