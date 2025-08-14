@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Led by IDEASLab’s PI, {{% mention "adrian_chong" %}}, the project *Thermoelectric Cooling with Novel Material Composites for Localised Cooling in Naturally Ventilated and Mixed-Mode Ventilated Spaces* has been awarded a total grant of **S$1.647 million**.
+Led by IDEASLab’s PI, {{% mention "adrian_chong" %}}, the project *Thermoelectric Cooling with Novel Material Composites for Localised Cooling in Naturally Ventilated and Mixed-Mode Ventilated Spaces* has been awarded a total grant of **S$1.648 million**.
 
 <!--more-->
 
