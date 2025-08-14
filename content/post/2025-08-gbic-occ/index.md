@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-A new project *Cost-Effective Wireless Occupant-Centric Controls for Energy-Efficient Whole Building Retrofit*, led by **Resync Technologies** with co-PIs from **NUS** and **A*STAR**, has been awarded S$1.26 M in funding under the **BCA Green Buildings Innovation Cluster (GBIC) R&D Programme**.
+A new project *Cost-Effective Wireless Occupant-Centric Controls for Energy-Efficient Whole Building Retrofit*, led by **Resync Technologies** with co-PIs from **NUS** and **A*STAR**, has been awarded **S$1.256 million** in funding under the **BCA Green Buildings Innovation Cluster (GBIC) R&D Programme**.
 
 <!--more-->
 
