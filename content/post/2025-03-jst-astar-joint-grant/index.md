@@ -13,4 +13,4 @@ This three-year research effort will bring together researchers from Singapore a
 
 The Singapore team will work closely with industry and regional partners to translate research outcomes into practical mixed-mode ventilation solutions that can be deployed in diverse building contexts. By bridging advanced AI control development with real-world application, the project aims to accelerate the adoption of sustainable cooling strategies across Southeast Asia.
 
-Read more about the JST–A*STAR Joint Call on AI here: [link to programme page]
+Read more about the JST–A*STAR Joint Call on AI [here](https://www.a-star.edu.sg/Research/funding-opportunities/japan-singapore-joint-call-for-proposals--japan-science-and-technology-agency-(jst)-and-agency-for-science--technology-and-research-(a-star)-2024)
