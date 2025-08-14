@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Our project *AI-Driven Climate Resilient Cooling: Robust Reinforcement Learning for Mixed-Mode Ventilation*, co-led by **{{% mention "adrian_chong" %}}** (IDEASLab, NUS) and **Dr. Shohei Miyata** (The University of Tokyo), has been awarded funding under the **Japan Science and Technology Agency (JST) – Agency for Science, Technology and Research (A*STAR) Joint Call on Artificial Intelligence**.
+Our project *AI-Driven Climate Resilient Cooling: Robust Reinforcement Learning for Mixed-Mode Ventilation*, co-led by **{{% mention "adrian_chong" %}}** (IDEASLab, NUS) and **Dr. Shohei Miyata** (The University of Tokyo), has been awarded funding under the Japan Science and Technology Agency (JST) – Agency for Science, Technology and Research (A*STAR) Joint Call on Artificial Intelligence.
 
 <!--more-->
 
