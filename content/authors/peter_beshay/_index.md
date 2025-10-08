@@ -1,8 +1,8 @@
 ---
 
 # Display name
-name: Lei Yue
-title: Lei Yue
+name: Peter Beshay
+title: Peter Beshay
 
 # Username (this should match the folder name)
 authors:
