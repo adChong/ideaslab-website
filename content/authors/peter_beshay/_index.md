@@ -52,7 +52,7 @@ social:
     link: https://www.linkedin.com/in/peter-beshay
   - icon: google-scholar
     icon_pack: ai
-    link: https://https://scholar.google.com/citations?user=MWu3lVUAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=MWu3lVUAAAAJ&hl=en
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/my-orcid?orcid=0000-0002-7754-3594
