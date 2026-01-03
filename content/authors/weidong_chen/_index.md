@@ -25,13 +25,13 @@ interests:
   - Sustainable cooling strategies
   - Sorption technology
   - CFD Modelling
-
+  
 education:
   courses:
-    - course PhD in Mechanical Engineering
+    - course: PhD in Mechanical Engineering
       institution: National University of Singapore
       year: 2022
-    - Course: BEng in Mechanical Engineering
+    - course: BEng in Mechanical Engineering
       institution: Tongji University
       year: 2018
 
