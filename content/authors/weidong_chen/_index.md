@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-    - degree: PhD in Mechanical Engineering
+    - course PhD in Mechanical Engineering
       institution: National University of Singapore
       year: 2022
-    - degree: BE in Mechanical Engineering
+    - Course: BEng in Mechanical Engineering
       institution: Tongji University
       year: 2018
 
