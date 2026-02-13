@@ -12,10 +12,10 @@ We are pleased to share that our project *Mixed-Mode Ventilation in Schools: Imp
 
 Led by **{{% mention "adrian_chong" %}}** (NUS), the project brings together an interdisciplinary team of Co-PIs including:
 
-- **Dr. June Chi-Yan Lo** (Medicine, NUS)  
-- **Assoc. Prof. Stephen Tay** (Built Environment, NUS)  
-- **Mr. Bertrand Lasternas** (University Campus Infrastructure, NUS)  
-- **Prof. Daniel Wong Hwee Boon** (Built Environment, NUS)  
+- **June Lo** (Medicine, NUS)  
+- **Stephen Tay** (Built Environment, NUS)  
+- **Bertrand Lasternas** (University Campus Infrastructure, NUS)  
+- **Daniel Wong** (Built Environment, NUS)  
 
 We will be working closely with the **Ministry of Education (MOE)** as a key collaborator and translation partner, alongside international collaboration with the **University of Sydney**.
 
