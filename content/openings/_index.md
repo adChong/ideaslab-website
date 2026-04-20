@@ -17,9 +17,11 @@ Your CV and cover letter should clearly demonstrate with concrete evidence how y
 These positions will remain open until filled.
 
 **Current openings**
+Nil
+<!--
 - [Research Fellow (Mixed-Mode Ventilation and Thermal Comfort)](./2025_NUS_Thermal_Comfort_MOE_RF.pdf)
 - [Research Fellow (Occupant-Centric Controls)](./2025_NUS_RF_Occupant_Centric_Controls.pdf)
-
+-->
 
 ## PhD Scholarships
 To express interest, please email [adrian.chong@nus.edu.sg](mailto:adrian.chong@nus.edu.sg) with your **CV** and a **personal statement** describing your research interests, relevant experience, and how your background aligns with IDEASLab’s mission and research areas. Highlight prior work, skills, or experiences that directly relate to our focus on climate-responsive design, innovative building technologies, smart building operations, and occupant-centric solutions.
