@@ -7,11 +7,11 @@ authors:
   - sicheng_zhan
   
 
-role: Research Fellow (Massachusetts Institute of Technology)
+role: Assistant Professor (Hong Kong University)
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:szhan@mit.edu'
+  link: 'mailto:szhan@hku.hk'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sichengzhan/

@@ -6,7 +6,7 @@ title: Hongyuan Jia
 authors:
   - hongyuan_jia
   
-role: Assistant Professor (Chongqing University of Science and Technology)
+role: Associate Professor (Chongqing University of Science and Technology)
 social:
 - icon: envelope
   icon_pack: fas

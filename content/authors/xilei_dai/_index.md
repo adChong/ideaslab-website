@@ -6,7 +6,7 @@ title: Xilei Dai
 authors:
   - xilei_dai
   
-role: Associate Professor (Chongqing University)
+role: Professor (Chongqing University)
 social:
 - icon: envelope
   icon_pack: fas

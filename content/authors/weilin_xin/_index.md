@@ -7,13 +7,13 @@ title: Weilin Xin
 authors:
   - weilin_xin
   
-weight: 40
+weight: 30
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: Research Assistant
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -43,6 +43,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:weilin01@u.nus.edu'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/weilin-xin-62b3b338b/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=xuCoU7UAAAAJ&hl
@@ -67,4 +70,4 @@ user_groups:
   - People
 ---
 
-Weilin Xin is a Research Assistant in the Department of Building at the National University of Singapore (NUS). His research focuses on creating generalizable and easily deployable solutions for intelligent building control by leveraging Large Language Models (LLMs) and Vision-Language Models (VLMs), a scope that includes the design and implementation of multi-agent frameworks. With a background in building energy consumption and urban thermal comfort analysis, he has strong expertise in machine learning, deep learning, reinforcement learning, and a deep understanding of graph data.
+Weilin Xin is a PhD Student in the Department of Building at the National University of Singapore (NUS). His research focuses on creating generalizable and easily deployable solutions for intelligent building control by leveraging Large Language Models (LLMs) and Vision-Language Models (VLMs), a scope that includes the design and implementation of multi-agent frameworks. With a background in building energy consumption and urban thermal comfort analysis, he has strong expertise in machine learning, deep learning, reinforcement learning, and a deep understanding of graph data.

@@ -6,7 +6,7 @@ title: Zeynep Tekler
 authors:
   - zeynep_tekler
 
-role: Postdoctoral Researcher (University of Oxford)
+role: Assistant Professor (Loughborough University)
 
 
 social:
