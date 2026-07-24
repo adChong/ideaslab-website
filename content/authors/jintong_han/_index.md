@@ -7,8 +7,6 @@ title: Jintong Han
 authors:
   - jintong_han
 
-weight: 30
-
 # Is this the primary user of the site?
 superuser: false
 
