@@ -13,27 +13,7 @@ weight: 30
 superuser: false
 
 # Role/position
-role: PhD Student
-
-# Organizations/Affiliations
-organizations:
-  - name: National University of Singapore
-    url: ''
-
-
-interests:
-  - Fault detection, diagnosis, and pprognosis 
-  - Artificial intelligence for buildings
-  - Bayesian Neural Networks
-
-education:
-  courses:
-    - course: MSc in System and Project Management
-      institution: Nanyang Technological University
-      year: 2019
-    - course: BSc inTraffic Engineering
-      institution: Tongji University
-      year: 2018
+role:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,8 +50,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - People
+  - Alumni
 ---
 
-Jintong Han is a PhD candidate in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg), specializing in building fault detection, diagnosis, and prognosis. She develops data-driven methods for building systems, with particular expertise in Bayesian neural networks for uncertainty-aware inference. Her work delivers calibrated, reliable FDDP algorithms and explores generative models to synthesize fault data. She holds an MSc in System and Project Management and a BSc in Traffic Engineering. With interdisciplinary training that bridges controls, data science, and building engineering, she excels at cross disciplinary integration and collaboration. She is passionate about developing advanced machine learning algorithms and applying them to integrated solutions for real world building systems.
 
